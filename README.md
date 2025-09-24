@@ -1,1 +1,1 @@
-# bearing-transfer-diagnosis
+# run_all.sh
